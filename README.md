@@ -38,7 +38,7 @@ Microsoft Power BI
 
 * Power Query
 * Data Transformation
-* Data Modeling
+* Data Modelling
 * DAX Measures
 * Interactive Visualizations
 * Dashboard Development
@@ -172,22 +172,6 @@ Power BI
 * Customer Analysis.png
 * Product Analysis.png
 * Insight and Recommendation.png
-* PowerBI_Dashboard_Recording.mp4
-
-Documentation
-
-* Project_Documentation.pdf
-
-⸻
-
-🎥 Dashboard Walkthrough
-
-A screen recording of the Power BI dashboard is included to demonstrate the interactive dashboard, filters, navigation, and analysis.
-
-Power BI Dashboard Recording:
-PowerBI_Dashboard_Recording.mp4
-
-⸻
 
 📌 Conclusion
 
